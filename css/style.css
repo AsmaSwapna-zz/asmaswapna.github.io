@@ -975,7 +975,7 @@ a.selected-item:before, .side-menu a:hover:before {
 	color: #fff;
 	width: 130px;
 	height: 37px;
-	line-height: 10px;
+	line-height: 50px;
 	overflow: hidden; 
 	-webkit-transition: all 0.3s; 
 	transition: all 0.3s;
@@ -988,7 +988,7 @@ a.selected-item:before, .side-menu a:hover:before {
 	transition: all 0.3s;
 }
 .mozicon .icon-wpr .icon:hover i:first-child {
-	margin-top: -37px;
+	margin-top: -50px;
 }
 .mozicon .icon-wpr .icon.rep:hover {background: #800000;}
 .mozicon .icon-wpr .icon.moz:hover {background: #000000;}
