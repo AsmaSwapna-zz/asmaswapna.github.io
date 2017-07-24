@@ -974,7 +974,7 @@ a.selected-item:before, .side-menu a:hover:before {
 	background: #4c4c4c;
 	color: #fff;
 	width: 130px;
-	height: 37px;
+	height: 40px;
 	line-height: 50px;
 	overflow: hidden; 
 	-webkit-transition: all 0.3s; 
